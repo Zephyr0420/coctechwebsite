@@ -14,7 +14,7 @@ function App() {
     
       <p>Hello, world!</p>
       <p className='testing'>Welcome to our College of the Canyons Tech Club! We build projects and teach the college of the canyons students all of the skills used in the Computer Science and Engineering World!</p>
-      <code>Hello, world!</code>
+    
       <div>
 
       </div>
