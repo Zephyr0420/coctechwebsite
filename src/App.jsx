@@ -5,14 +5,18 @@ function App() {
 
 
   return (
-    <>
+    <main style={{ height: 1000, paddingTop: 150}}>
+    <header className='headerleft'>
+      <h1 className='logo'>COC Tech Club</h1>
+      <button>Join Now</button>
+    </header>
     <div>
-      <h1>COC Tech Club</h1>
+    
       <p>Hello, world!</p>
       <p className='testing'>Welcome to our College of the Canyons Tech Club! We build projects and teach the college of the canyons students all of the skills used in the Computer Science and Engineering World!</p>
-      <code>   Hello, world!</code>
+      <code>Hello, world!</code>
       <div>
-      <button><p>Join Now!</p></button>
+
       </div>
       
     </div>
@@ -36,7 +40,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
-    </>
+    </main>
   )
 }
 
